@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+You just connect up the switches and the 7-Seg Board and then the fun can start
 
 ## How to test
 
-Explain how to use your project
+The . - Point should blink at a frequency of 1Hz and you can do turrn on some Segments by using the bottom 4 switches
 
 ## External hardware
 
